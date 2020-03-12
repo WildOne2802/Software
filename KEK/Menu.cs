@@ -1,4 +1,5 @@
 using System;
+using System.Text.RegularExpressions;
 
 namespace KEK
 {
@@ -51,7 +52,7 @@ namespace KEK
             while (true)
             {
                 Console.WriteLine(
-                    "[1] EnterValue\n[2] Sum\n[3] Subtract\n[4] Multiply\n[5] Divide\n[6] Pow\n[7] Sqrt\n[8] Sin\n[9] Cos\n[10] Tan\n[11] Absolute\n[12] Round\n[13] Sinh\n[14] Cosh\n[15] Result\n[0] Exit\n");
+                    "[1] EnterValue\n[2] Sum\n[3] Subtract\n[4] Multiply\n[5] Divide\n[6] Pow\n[7] Sqrt\n[8] Sin\n[9] Cos\n[10] Tan\n[11] Absolute\n[12] Round\n[13] Sinh\n[14] Cosh\n[15] Tanh\n[16] Ln\n[17] Log10\n[18] Result\n[0] Exit\n");
                 inputLine = Console.ReadLine();
                 if (!Int32.TryParse(inputLine, out var operation))
                 {
@@ -120,6 +121,18 @@ namespace KEK
                             Result();
                             break;
                         case 15:
+                            result = Calculator.Tanh(result);
+                            Result();
+                            break;
+                        case 16:
+                            result = Calculator.Ln(result);
+                            Result();
+                            break;
+                        case 17:
+                            result = Calculator.Log10(result);
+                            Result();
+                            break;
+                        case 18:
                             Result();
                             break;
                         case 0:

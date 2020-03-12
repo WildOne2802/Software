@@ -141,5 +141,35 @@ namespace KEK
         {
             return Convert.ToDecimal(Math.Cosh(Convert.ToDouble(value)));
         }
+        
+        /// <summary>
+        /// Tanh function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Tanh(decimal value)
+        {
+            return Convert.ToDecimal(Math.Tanh(Convert.ToDouble(value)));
+        }
+        
+        /// <summary>
+        /// Ln function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Ln(decimal value)
+        {
+            return Convert.ToDecimal(Math.Log(Convert.ToDouble(value)));
+        }
+        
+        /// <summary>
+        /// LOG10 function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Log10(decimal value)
+        {
+            return Convert.ToDecimal(Math.Log10(Convert.ToDouble(value)));
+        }
     }
 }
