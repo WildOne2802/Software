@@ -1,0 +1,6 @@
+[submodule "Submodulev01"]
+	path = Submodulev01
+	url = https://github.com/DFirsa/Submodulev01
+[submodule "Submodulev02"]
+	path = Submodulev02
+	url = https://github.com/DFirsa/Submodulev02
