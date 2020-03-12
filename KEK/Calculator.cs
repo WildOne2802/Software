@@ -131,5 +131,15 @@ namespace KEK
         {
             return Convert.ToDecimal(Math.Sinh(Convert.ToDouble(value)));
         }
+        
+        /// <summary>
+        /// Cosh function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Cosh(decimal value)
+        {
+            return Convert.ToDecimal(Math.Cosh(Convert.ToDouble(value)));
+        }
     }
 }
