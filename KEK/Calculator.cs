@@ -151,5 +151,15 @@ namespace KEK
         {
             return Convert.ToDecimal(Math.Tanh(Convert.ToDouble(value)));
         }
+        
+        /// <summary>
+        /// Ln function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Ln(decimal value)
+        {
+            return Convert.ToDecimal(Math.Log(Convert.ToDouble(value)));
+        }
     }
 }
