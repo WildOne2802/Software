@@ -1,4 +1,5 @@
 using System;
+using System.Text.RegularExpressions;
 
 namespace KEK
 {
@@ -110,6 +111,25 @@ namespace KEK
         public static decimal Abs(decimal value)
         {
             return Convert.ToDecimal(Math.Abs(Convert.ToDouble(value)));
+        }
+        
+        /// <summary>
+        /// Round function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Round(decimal value)
+        {
+            return Convert.ToDecimal(Math.Round(value));
+        }
+        /// <summary>
+        /// Sinh function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Sinh(decimal value)
+        {
+            return Convert.ToDecimal(Math.Sinh(Convert.ToDouble(value)));
         }
     }
 }
