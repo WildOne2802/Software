@@ -141,5 +141,15 @@ namespace KEK
         {
             return Convert.ToDecimal(Math.Cosh(Convert.ToDouble(value)));
         }
+        
+        /// <summary>
+        /// Tanh function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Tanh(decimal value)
+        {
+            return Convert.ToDecimal(Math.Tanh(Convert.ToDouble(value)));
+        }
     }
 }
