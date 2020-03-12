@@ -2,6 +2,7 @@
 
 namespace KEK
 {
+    
     /// <summary>
     /// Program class
     /// </summary>
