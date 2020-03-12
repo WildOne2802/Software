@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/napenshe/.dotnet/store/|arch|/|tfm|",
+      "/Users/napenshe/.nuget/packages",
+      "/Users/napenshe/.dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
