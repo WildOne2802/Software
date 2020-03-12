@@ -161,5 +161,15 @@ namespace KEK
         {
             return Convert.ToDecimal(Math.Log(Convert.ToDouble(value)));
         }
+        
+        /// <summary>
+        /// LOG10 function
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static decimal Log10(decimal value)
+        {
+            return Convert.ToDecimal(Math.Log10(Convert.ToDouble(value)));
+        }
     }
 }
