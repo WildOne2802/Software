@@ -1,0 +1,11 @@
+/Users/napenshe/RiderProjects/HELLO/KEK/bin/Debug/netcoreapp2.2/KEK.deps.json
+/Users/napenshe/RiderProjects/HELLO/KEK/bin/Debug/netcoreapp2.2/KEK.runtimeconfig.json
+/Users/napenshe/RiderProjects/HELLO/KEK/bin/Debug/netcoreapp2.2/KEK.runtimeconfig.dev.json
+/Users/napenshe/RiderProjects/HELLO/KEK/bin/Debug/netcoreapp2.2/KEK.dll
+/Users/napenshe/RiderProjects/HELLO/KEK/bin/Debug/netcoreapp2.2/KEK.pdb
+/Users/napenshe/RiderProjects/HELLO/KEK/obj/Debug/netcoreapp2.2/KEK.csprojAssemblyReference.cache
+/Users/napenshe/RiderProjects/HELLO/KEK/obj/Debug/netcoreapp2.2/KEK.csproj.CoreCompileInputs.cache
+/Users/napenshe/RiderProjects/HELLO/KEK/obj/Debug/netcoreapp2.2/KEK.AssemblyInfoInputs.cache
+/Users/napenshe/RiderProjects/HELLO/KEK/obj/Debug/netcoreapp2.2/KEK.AssemblyInfo.cs
+/Users/napenshe/RiderProjects/HELLO/KEK/obj/Debug/netcoreapp2.2/KEK.dll
+/Users/napenshe/RiderProjects/HELLO/KEK/obj/Debug/netcoreapp2.2/KEK.pdb

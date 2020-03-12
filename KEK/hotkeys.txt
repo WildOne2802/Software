@@ -1,0 +1,10 @@
+cmd + opt + enter -     beautifier
+cmd + opt + / -         comment
+control + shift + o -   open project or file
+option + enter -        show action list
+cmd + , -               settings
+control + option + D -  debug
+⌘+0 -                   Build	         
+⌘+1 -                   Explorer	            
+⌘+2 -                   Favorites	           
+⌘+⌃+1 -                 Terminal

@@ -1,0 +1,17 @@
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/Tests.deps.json
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.json
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.dev.json
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/Tests.dll
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/Tests.pdb
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/KEK.dll
+/Users/napenshe/RiderProjects/HELLO/Tests/bin/Debug/netcoreapp2.2/KEK.pdb
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.csprojAssemblyReference.cache
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CoreCompileInputs.cache
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfoInputs.cache
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfo.cs
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CopyComplete
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.dll
+/Users/napenshe/RiderProjects/HELLO/Tests/obj/Debug/netcoreapp2.2/Tests.pdb

@@ -1,0 +1,11 @@
+/Users/napenshe/RiderProjects/HELLO/HELLO/bin/Debug/netcoreapp2.2/HELLO.deps.json
+/Users/napenshe/RiderProjects/HELLO/HELLO/bin/Debug/netcoreapp2.2/HELLO.runtimeconfig.json
+/Users/napenshe/RiderProjects/HELLO/HELLO/bin/Debug/netcoreapp2.2/HELLO.runtimeconfig.dev.json
+/Users/napenshe/RiderProjects/HELLO/HELLO/bin/Debug/netcoreapp2.2/HELLO.dll
+/Users/napenshe/RiderProjects/HELLO/HELLO/bin/Debug/netcoreapp2.2/HELLO.pdb
+/Users/napenshe/RiderProjects/HELLO/HELLO/obj/Debug/netcoreapp2.2/HELLO.csprojAssemblyReference.cache
+/Users/napenshe/RiderProjects/HELLO/HELLO/obj/Debug/netcoreapp2.2/HELLO.csproj.CoreCompileInputs.cache
+/Users/napenshe/RiderProjects/HELLO/HELLO/obj/Debug/netcoreapp2.2/HELLO.AssemblyInfoInputs.cache
+/Users/napenshe/RiderProjects/HELLO/HELLO/obj/Debug/netcoreapp2.2/HELLO.AssemblyInfo.cs
+/Users/napenshe/RiderProjects/HELLO/HELLO/obj/Debug/netcoreapp2.2/HELLO.dll
+/Users/napenshe/RiderProjects/HELLO/HELLO/obj/Debug/netcoreapp2.2/HELLO.pdb
