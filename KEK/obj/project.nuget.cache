@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2jYls7wmte97BOfs5OyEN0ZTmqCjkZmx6pW5iWcNUrHLFz+gR9iv6Q6ITMdUwCGzqnwiuP5Qq4VSJdvESU7GQ==",
+  "success": true,
+  "projectFilePath": "/Users/napenshe/RiderProjects/HELLO/KEK/KEK.csproj",
+  "expectedPackageFiles": [
+    "/Users/napenshe/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/napenshe/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

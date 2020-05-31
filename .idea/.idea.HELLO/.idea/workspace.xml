@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa04083b-ec85-478a-8f4c-f7cad3a149d5" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +25,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/KEK/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/KEK/Menu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Hell/Test1/Tests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/KEK/Snippets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KEK/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Hell/Calculator/Menu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KEK/Snippets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Check/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KEK/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KEK/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Hell/Calculator/Menu.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,39 +45,44 @@
         <option value="$PROJECT_DIR$/KEK/hotkeys.txt" />
         <option value="$PROJECT_DIR$/Tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/KEK/Program.cs" />
-        <option value="$PROJECT_DIR$/KEK/Calculator.cs" />
         <option value="$PROJECT_DIR$/KEK/Menu.cs" />
+        <option value="$PROJECT_DIR$/KEK/Calculator.cs" />
+        <option value="$PROJECT_DIR$/KEK/Check.cs" />
+        <option value="$PROJECT_DIR$/Check/Program.cs" />
       </list>
-    </option>
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea/.idea.HELLO/.idea" />
-      </set>
     </option>
   </component>
   <component name="ProjectId" id="1YNtE2PAfEEasKCi8Rfl4EtUc2Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected=".NET Project.HELLO">
+  <component name="RunManager" selected=".NET Project.Check">
+    <configuration name="Check" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Check/Check.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -93,7 +98,7 @@
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration name="HELLO" type="DotNetProject" factoryName=".NET Project" temporary="true">
@@ -111,11 +116,12 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.Check" />
         <item itemvalue=".NET Project.HELLO" />
       </list>
     </recent_temporary>
@@ -136,6 +142,8 @@
       <workItem from="1585170037215" duration="14000" />
       <workItem from="1585170055276" duration="1000" />
       <workItem from="1585774708937" duration="139000" />
+      <workItem from="1585854878215" duration="176000" />
+      <workItem from="1590947398109" duration="2881000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1582798879668</created>
@@ -148,7 +156,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
@@ -167,22 +175,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="hello" />
     <option name="LAST_COMMIT_MESSAGE" value="hello" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="178" key="Rider.ProjectTemplateDialog.Size" timestamp="1590948216972">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="178" key="Rider.ProjectTemplateDialog.Size/0.23.1440.832@0.23.1440.832" timestamp="1590948216972" />
+    <state x="255" y="132" key="SettingsEditor" timestamp="1590951952545">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="255" y="132" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590951952545" />
+    <state x="221" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1590948469880" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

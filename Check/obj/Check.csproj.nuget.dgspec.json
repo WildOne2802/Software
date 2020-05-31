@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/napenshe/RiderProjects/HELLO/KEK/KEK.csproj": {}
+    "/Users/napenshe/RiderProjects/HELLO/Check/Check.csproj": {}
   },
   "projects": {
-    "/Users/napenshe/RiderProjects/HELLO/KEK/KEK.csproj": {
+    "/Users/napenshe/RiderProjects/HELLO/Check/Check.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/napenshe/RiderProjects/HELLO/KEK/KEK.csproj",
-        "projectName": "KEK",
-        "projectPath": "/Users/napenshe/RiderProjects/HELLO/KEK/KEK.csproj",
+        "projectUniqueName": "/Users/napenshe/RiderProjects/HELLO/Check/Check.csproj",
+        "projectName": "Check",
+        "projectPath": "/Users/napenshe/RiderProjects/HELLO/Check/Check.csproj",
         "packagesPath": "/Users/napenshe/.nuget/packages/",
-        "outputPath": "/Users/napenshe/RiderProjects/HELLO/KEK/obj/",
+        "outputPath": "/Users/napenshe/RiderProjects/HELLO/Check/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/Users/napenshe/.dotnet/sdk/NuGetFallbackFolder"
@@ -44,10 +44,6 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
             }
           },
           "imports": [

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KEK", "KEK\KEK.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BE08FACD-92C3-4453-BDE2-0A1A64B2FB81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check", "Check\Check.csproj", "{9A943D9E-9180-4CD5-A6B9-1C5506A501CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{BE08FACD-92C3-4453-BDE2-0A1A64B2FB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE08FACD-92C3-4453-BDE2-0A1A64B2FB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE08FACD-92C3-4453-BDE2-0A1A64B2FB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A943D9E-9180-4CD5-A6B9-1C5506A501CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A943D9E-9180-4CD5-A6B9-1C5506A501CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A943D9E-9180-4CD5-A6B9-1C5506A501CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A943D9E-9180-4CD5-A6B9-1C5506A501CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

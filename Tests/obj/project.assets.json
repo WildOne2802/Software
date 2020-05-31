@@ -5838,7 +5838,7 @@
         "/Users/napenshe/.dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/napenshe/.config/NuGet/NuGet.Config"
+        "/Users/napenshe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
